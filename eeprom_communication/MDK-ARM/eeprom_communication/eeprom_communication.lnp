@@ -1,0 +1,27 @@
+--cpu=Cortex-M4.fp
+"eeprom_communication\startup_stm32f407xx.o"
+"eeprom_communication\main.o"
+"eeprom_communication\stm32f4xx_it.o"
+"eeprom_communication\stm32f4xx_hal_msp.o"
+"eeprom_communication\stm32f4xx_hal_i2c.o"
+"eeprom_communication\stm32f4xx_hal_i2c_ex.o"
+"eeprom_communication\stm32f4xx_hal_tim.o"
+"eeprom_communication\stm32f4xx_hal_tim_ex.o"
+"eeprom_communication\stm32f4xx_hal_uart.o"
+"eeprom_communication\stm32f4xx_hal_rcc.o"
+"eeprom_communication\stm32f4xx_hal_rcc_ex.o"
+"eeprom_communication\stm32f4xx_hal_flash.o"
+"eeprom_communication\stm32f4xx_hal_flash_ex.o"
+"eeprom_communication\stm32f4xx_hal_flash_ramfunc.o"
+"eeprom_communication\stm32f4xx_hal_gpio.o"
+"eeprom_communication\stm32f4xx_hal_dma_ex.o"
+"eeprom_communication\stm32f4xx_hal_dma.o"
+"eeprom_communication\stm32f4xx_hal_pwr.o"
+"eeprom_communication\stm32f4xx_hal_pwr_ex.o"
+"eeprom_communication\stm32f4xx_hal_cortex.o"
+"eeprom_communication\stm32f4xx_hal.o"
+"eeprom_communication\system_stm32f4xx.o"
+--library_type=microlib --strict --scatter "eeprom_communication\eeprom_communication.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "eeprom_communication.map" -o eeprom_communication\eeprom_communication.axf

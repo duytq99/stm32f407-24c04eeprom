@@ -1,0 +1,14 @@
+E:\Project_Embedded\C#\appver1\appver1\bin\Debug\appver1.exe.config
+E:\Project_Embedded\C#\appver1\appver1\bin\Debug\appver1.exe
+E:\Project_Embedded\C#\appver1\appver1\bin\Debug\appver1.pdb
+E:\Project_Embedded\C#\appver1\appver1\obj\Debug\appver1.csprojAssemblyReference.cache
+E:\Project_Embedded\C#\appver1\appver1\obj\Debug\appver1.Form1.resources
+E:\Project_Embedded\C#\appver1\appver1\obj\Debug\appver1.Properties.Resources.resources
+E:\Project_Embedded\C#\appver1\appver1\obj\Debug\appver1.csproj.GenerateResource.cache
+E:\Project_Embedded\C#\appver1\appver1\obj\Debug\appver1.csproj.CoreCompileInputs.cache
+E:\Project_Embedded\C#\appver1\appver1\obj\Debug\appver1.exe
+E:\Project_Embedded\C#\appver1\appver1\obj\Debug\appver1.pdb
+E:\Project_Embedded\C#\appver1\appver1\bin\Debug\appver1.exe.manifest
+E:\Project_Embedded\C#\appver1\appver1\bin\Debug\appver1.application
+E:\Project_Embedded\C#\appver1\appver1\obj\Debug\appver1.exe.manifest
+E:\Project_Embedded\C#\appver1\appver1\obj\Debug\appver1.application
